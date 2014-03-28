@@ -2,9 +2,9 @@
   "name": "zaypay",
   "version": "0.0.1",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/miikkajs/zaypay-node.git",
   "bin": {
-    "zaypay": "./app.js"
+    "zaypay": "./zaypay.js"
   },
   "dependencies": {
     "request": "^2.34.0"
